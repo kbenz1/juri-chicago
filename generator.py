@@ -12,6 +12,11 @@ def random_date(start, end):
 def random_amount():
     return random.choice([50, 100, 500, 1000, 5000, 10000])
 
+# Funktion zum Generieren zufälliger Beträge
+def random_amount2():
+    return random.choice([20, 110, 550, 900, 4000, 9000])
+
+
 # Parameter
 anzahl_transaktionen = 10000
 zusatz_transaktionen = 5000  # Anzahl zusätzlicher zufälliger Transaktionen
@@ -45,7 +50,7 @@ for _ in range(zusatz_transaktionen):
     if soll == "Kasse" and haben == "Darlehen":
         soll = "Betriebsaufwand"
         haben = "Kasse"
-    betrag = random_amount()
+    betrag = random_amount2()
     
     daten.append({"Datum": datum, "Soll": soll, "Haben": haben, "Betrag": betrag})
 
