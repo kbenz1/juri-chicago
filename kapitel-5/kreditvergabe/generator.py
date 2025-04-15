@@ -34,13 +34,13 @@ def generiere_firmenname():
 anzahl = 100
 
 # Zufallswerte generieren
-einkommen = np.random.normal(100_000, 40_000, anzahl).clip(10_000)
+Umsatz = np.random.normal(100_000, 40_000, anzahl).clip(10_000)
 vermoegen = np.random.normal(300_000, 150_000, anzahl).clip(0)
 gold = np.random.normal(30, 15, anzahl).clip(0)
-immobilien = np.random.normal(200_000, 100_000, anzahl).clip(0)
+immobilien = np.random.normal(400_000, 100_000, anzahl).clip(0)
 
 # Auf gewünschte Genauigkeit runden
-einkommen = np.round(einkommen, -3)
+Umsatz = np.round(Umsatz, -3)
 vermoegen = np.round(vermoegen, -3)
 gold = np.round(gold, -1)
 immobilien = np.round(immobilien, -3)
@@ -48,7 +48,7 @@ immobilien = np.round(immobilien, -3)
 # DataFrame erstellen
 daten = {
     "Name": [generiere_firmenname() for _ in range(anzahl)],
-    "Einkommen": einkommen,
+    "Umsatz": Umsatz,
     "Vermögen": vermoegen,
     "Gold": gold,
     "Immobilien": immobilien,
@@ -56,23 +56,25 @@ daten = {
 
 df = pd.DataFrame(daten)
 
+
+
 # Gruppeneinteilung
 def bestimme_gruppe(e, v, g, immo):
     punkte = 0
     if e > 120_000: punkte += 1
     if v > 400_000: punkte += 1
-    if g > 50:      punkte += 1
-    if immo > 300_000: punkte += 1
+    if g > 20:      punkte += 1
+    if immo > 320_000: punkte += 1
 
     if punkte >= 3:
         return "A"
-    elif punkte == 2:
+    elif punkte > 1:
         return "B"
     else:
         return "C"
 
-df["Gruppe"] = df.apply(lambda row: bestimme_gruppe(row["Einkommen"], row["Vermögen"], row["Gold"], row["Immobilien"]), axis=1)
-
+df["Gruppe"] = df.apply(lambda row: bestimme_gruppe(row["Umsatz"], row["Vermögen"], row["Gold"], row["Immobilien"]), axis=1)
+print(df)
 # Excel speichern
 dateiname = "kreditnehmerinnen.xlsx"
 df.to_excel(dateiname, index=False)
