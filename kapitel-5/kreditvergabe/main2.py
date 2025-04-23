@@ -9,11 +9,11 @@ with open("baummodell.pkl", "rb") as f:
 df_neu = pd.read_excel("kredite_greenwash2025.xlsx")
 
 # Vorverarbeitung wie beim Training
-features = ['Umsatz', 'Vermögen', 'Gold', 'Immobilien']
+features = ["Umsatz", "Vermögen", "Gold", "Immobilien"]
 for feat in features:
-    df_neu[feat + '_cat'] = pd.qcut(df_neu[feat], 3, labels=[0, 1, 2]).astype(int)
+    df_neu[feat + "_cat"] = pd.qcut(df_neu[feat], 3, labels=[0, 1, 2]).astype(int)
 
-X_neu = df_neu[[feat + '_cat' for feat in features]]
+X_neu = df_neu[[feat + "_cat" for feat in features]]
 
 # Klassifikation mit gespeichertem Baum
 y_pred = clf.predict(X_neu)
@@ -22,7 +22,7 @@ y_pred = clf.predict(X_neu)
 df_neu["vorh_Gruppe"] = y_pred
 
 # Ergebnis anzeigen
-print(df_neu[["Name", "vorh_Gruppe"]])
+print(df_neu[["Name", "Gruppe","vorh_Gruppe"]])
 
 # Ergebnis speichern
 df_neu.to_excel("korrekte_kredite_greenwash2025.xlsx", index=False)

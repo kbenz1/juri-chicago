@@ -22,7 +22,7 @@ df_umfrage = pd.read_excel(datei_einlesen, sheet_name="Umfrageergebnisse")
 
 # Anzahl Testpersonen (Zeilen in 'Testperson')
 testperson_count = df_umfrage["Testperson"].count()
-print("Stichprobengrösse:", testperson_count)
+print("Stichprobengröße:", testperson_count)
 
 # Durchschnitte berechnen
 avg_new_yama = df_umfrage["Bewertung New Yama-Cola"].mean()
