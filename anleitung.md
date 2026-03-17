@@ -1,134 +1,7 @@
 <html>
 
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=Generator content="Microsoft Word 15 (filtered)">
-<style>
-<!--
- /* Font Definitions */
- @font-face
-	{font-family:Wingdings;
-	panose-1:5 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Cambria Math";
-	panose-1:2 4 5 3 5 4 6 3 2 4;}
-@font-face
-	{font-family:Calibri;
-	panose-1:2 15 5 2 2 2 4 3 2 4;}
-@font-face
-	{font-family:"Calibri Light";
-	panose-1:2 15 3 2 2 2 4 3 2 4;}
-@font-face
-	{font-family:"Segoe UI Emoji";
-	panose-1:2 11 5 2 4 2 4 2 2 3;}
-@font-face
-	{font-family:"Book Antiqua";
-	panose-1:2 4 6 2 5 3 5 3 3 4;}
-@font-face
-	{font-family:Tahoma;
-	panose-1:2 11 6 4 3 5 4 4 2 4;}
- /* Style Definitions */
- p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{margin-top:6.0pt;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:0cm;
-	text-align:justify;
-	text-indent:14.2pt;
-	font-size:11.0pt;
-	font-family:"Book Antiqua",serif;}
-h3
-	{mso-style-link:"Überschrift 3 Zchn";
-	margin-top:12.0pt;
-	margin-right:0cm;
-	margin-bottom:3.0pt;
-	margin-left:0cm;
-	text-align:justify;
-	text-indent:0cm;
-	page-break-after:avoid;
-	font-size:11.0pt;
-	font-family:"Book Antiqua",serif;
-	font-weight:bold;}
-a:link, span.MsoHyperlink
-	{font-family:"Book Antiqua",serif;
-	color:windowtext;
-	text-decoration:none;}
-p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
-	{margin-top:6.0pt;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:36.0pt;
-	text-align:justify;
-	text-indent:14.2pt;
-	font-size:11.0pt;
-	font-family:"Book Antiqua",serif;}
-p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
-	{margin-top:6.0pt;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:36.0pt;
-	text-align:justify;
-	text-indent:14.2pt;
-	font-size:11.0pt;
-	font-family:"Book Antiqua",serif;}
-p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
-	{margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:36.0pt;
-	text-align:justify;
-	text-indent:14.2pt;
-	font-size:11.0pt;
-	font-family:"Book Antiqua",serif;}
-p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
-	{margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:36.0pt;
-	text-align:justify;
-	text-indent:14.2pt;
-	font-size:11.0pt;
-	font-family:"Book Antiqua",serif;}
-span.berschrift3Zchn
-	{mso-style-name:"Überschrift 3 Zchn";
-	mso-style-link:"Überschrift 3";
-	font-family:"Book Antiqua",serif;
-	font-weight:bold;}
-p.Code, li.Code, div.Code
-	{mso-style-name:Code;
-	mso-style-link:"Code Zchn";
-	margin-top:6.0pt;
-	margin-right:14.2pt;
-	margin-bottom:0cm;
-	margin-left:14.2pt;
-	text-align:left;
-	text-indent:0cm;
-	border:none;
-	padding:0cm;
-	font-size:10.0pt;
-	font-family:"Courier New";
-	color:#7F7F7F;}
-span.CodeZchn
-	{mso-style-name:"Code Zchn";
-	mso-style-link:Code;
-	font-family:"Courier New";
-	color:#7F7F7F;}
-.MsoChpDefault
-	{font-size:10.0pt;
-	font-family:"Calibri",sans-serif;}
- /* Page Definitions */
- @page WordSection1
-	{size:612.0pt 792.0pt;
-	margin:48.2pt 42.55pt 2.0cm 48.2pt;}
-div.WordSection1
-	{page:WordSection1;}
- /* List Definitions */
- ol
-	{margin-bottom:0cm;}
-ul
-	{margin-bottom:0cm;}
--->
-</style>
+
 
 </head>
 
@@ -138,9 +11,9 @@ ul
 
 <h3><a name="_Toc195981138">Welche Software-Tools brauche ich?</a></h3>
 
-<p class=MsoNormal>Die Python-Programmiersprache benötigst Du, um Spiele, Apps
+<p class=MsoNormal>Die Python-Programmiersprache benÃ¶tigst Du, um Spiele, Apps
 und andere coole Dinge zu bauen. Dann brauchst Du Git. Git hilft dir, Deinen Programmier-Code
-sicher aufzubewahren und mit anderen zu teilen. Ausserdem benötigst Du Thonny. Thonny
+sicher aufzubewahren und mit anderen zu teilen. Ausserdem benÃ¶tigst Du Thonny. Thonny
 ist wie ein Werkzeugkasten, in dem Du Python und Git einfach ausprobieren
 kannst.</p>
 
@@ -149,7 +22,7 @@ kannst.</p>
 <p class=MsoNormal>Thonny ist eine Software, bei der man mit der
 Programmiersprache Python Computerprogramme erstellen kann. Python ist in
 Thonny bereits integriert. Je nachdem, welches Betriebssystem Dein Computer
-hat, geht die Installation etwas anders. Keine Sorge, ich erkläre Dir alles.</p>
+hat, geht die Installation etwas anders. Keine Sorge, ich erklÃ¤re Dir alles.</p>
 
 <h3><a name="_Toc192713847"></a><a name="_Toc195981139">Python und Thonny
 installieren unter Windows</a></h3>
@@ -172,45 +45,45 @@ src="anleitung-Dateien/image002.jpg"></p>
 
 <p class=MsoListParagraph style='text-indent:-18.0pt'><span style='font-size:
 10.0pt'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>Fahre mit der Maus auf den Schriftzug „Windows“ und klicke auf
+</span></span>Fahre mit der Maus auf den Schriftzug â€žWindowsâ€œ und klicke auf
 den Link wie in dem folgenden Bild.</p>
 
 <p class=MsoNormal align=left style='margin-left:36.0pt;text-align:left;
 text-indent:0cm'><img border=0 width=333 height=194
 src="anleitung-Dateien/image003.jpg"
-alt="Ein Bild, das Text, Screenshot, Schrift, Webseite enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Text, Screenshot, Schrift, Webseite enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoListParagraph style='text-indent:-18.0pt'><span style='font-size:
 10.0pt'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>Klicke auf den Link und das Installationsprogramm für Thonny wird
+</span></span>Klicke auf den Link und das Installationsprogramm fÃ¼r Thonny wird
 heruntergeladen. Ein Installationsprogramm ist eine Software, die eine andere
 Software auf Deinem Computer einrichtet, so dass Du sie benutzen kannst.</p>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:0cm'><img border=0
 width=228 height=122 src="anleitung-Dateien/image004.jpg"
-alt="Ein Bild, das Text, Screenshot, Schrift, Software enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Text, Screenshot, Schrift, Software enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:0cm'>&nbsp;</p>
 
 <p class=MsoListParagraph style='text-indent:-18.0pt'><span style='font-size:
 10.0pt'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>Wenn Du das Installationsprogramm vollständig heruntergeladen
+</span></span>Wenn Du das Installationsprogramm vollstÃ¤ndig heruntergeladen
 hast, kannst Du es mit einem Doppelklick starten.</p>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:0cm'><img border=0
 width=196 height=88 src="anleitung-Dateien/image005.jpg"
-alt="Ein Bild, das Text, Screenshot, Schrift enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Text, Screenshot, Schrift enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:0cm'>&nbsp;</p>
 
 <ol style='margin-top:0cm' start=5 type=1>
  <li class=MsoNormal style='text-indent:-18.0pt'>Nun musst Du nichts weiter
-     tun, als den Anweisungen des Installationsprogramms zu folgen. Klicke auf „Next“.</li>
+     tun, als den Anweisungen des Installationsprogramms zu folgen. Klicke auf â€žNextâ€œ.</li>
 </ol>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:0cm'><img border=0
 width=301 height=237 src="anleitung-Dateien/image006.jpg"
-alt="Ein Bild, das Text, Screenshot, Software, Display enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Text, Screenshot, Software, Display enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:0cm'>&nbsp;</p>
 
@@ -218,48 +91,48 @@ alt="Ein Bild, das Text, Screenshot, Software, Display enthält.&#10;&#10;KI-gene
  <li class=MsoNormal style='text-indent:-18.0pt'>Dann wirst Du aufgefordert die
      Lizenzvereinbarung zur Nutzung von Thonny zu lesen und ihr zuzustimmen.
      Wenn Du der Lizenzvereinbarung zustimmst, darfst Du die Software gratis
-     nutzen, verändern und weiterverbreiten, wenn Du Dich a die Bestimmungen
-     der Lizenzvereinbarung hältst. Wähle „I accept the agreement“ („Ich stimme
-     der Vereinbarung zu“) und klicke dann auf „Next“, wenn Du der
+     nutzen, verÃ¤ndern und weiterverbreiten, wenn Du Dich a die Bestimmungen
+     der Lizenzvereinbarung hÃ¤ltst. WÃ¤hle â€žI accept the agreementâ€œ (â€žIch stimme
+     der Vereinbarung zuâ€œ) und klicke dann auf â€žNextâ€œ, wenn Du der
      Lizenzvereinbarung zustimmen willst.</li>
 </ol>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:0cm'><img border=0
 width=301 height=236 src="anleitung-Dateien/image007.jpg"
-alt="Ein Bild, das Text, Elektronik, Screenshot, Display enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Text, Elektronik, Screenshot, Display enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:0cm'>&nbsp;</p>
 
 <p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt'><span
 style='font-size:10.0pt'>7.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>Dann wirst Du gefragt, ob Du ein Desktop-Icon für Thonny
-erstellen willst, setze das Häkchen und klicke auf „Next“</p>
+</span></span>Dann wirst Du gefragt, ob Du ein Desktop-Icon fÃ¼r Thonny
+erstellen willst, setze das HÃ¤kchen und klicke auf â€žNextâ€œ</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:0cm'><img border=0
 width=299 height=236 src="anleitung-Dateien/image008.jpg"
-alt="Ein Bild, das Text, Elektronik, Screenshot, Display enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Text, Elektronik, Screenshot, Display enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:0cm'>&nbsp;</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'><span
 style='font-size:10.0pt'>8.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span>Dann wird Dir nochmals angezeigt, wo Thonny installiert wird.
-Klicke auf „Install“, um die Installation zu starten.</p>
+Klicke auf â€žInstallâ€œ, um die Installation zu starten.</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:0cm'><img border=0
 width=302 height=237 src="anleitung-Dateien/image009.jpg"
-alt="Ein Bild, das Text, Elektronik, Screenshot, Display enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Text, Elektronik, Screenshot, Display enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:0cm'>&nbsp;</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'><span
 style='font-size:10.0pt'>9.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span>Nun startet die Installation mit einem Balken, der nach und nach
-aufgefüllt wird. Warte, bis alles voll ist.</p>
+aufgefÃ¼llt wird. Warte, bis alles voll ist.</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:0cm'><img border=0
 width=300 height=236 src="anleitung-Dateien/image010.jpg"
-alt="Ein Bild, das Text, Screenshot, Display, Software enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Text, Screenshot, Display, Software enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:0cm'>&nbsp;</p>
 
@@ -267,12 +140,12 @@ alt="Ein Bild, das Text, Screenshot, Display, Software enthält.&#10;&#10;KI-gene
 
 <ol style='margin-top:0cm' start=10 type=1>
  <li class=MsoNormal style='text-indent:-18.0pt'>Nun ist Thonny fertig
-     installiert. Klicke auf „Finish“, um das Installationsprogramm zu beenden.</li>
+     installiert. Klicke auf â€žFinishâ€œ, um das Installationsprogramm zu beenden.</li>
 </ol>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:0cm'><img border=0
 width=302 height=237 src="anleitung-Dateien/image011.jpg"
-alt="Ein Bild, das Text, Screenshot, Software, Computersymbol enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Text, Screenshot, Software, Computersymbol enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:0cm'>&nbsp;</p>
 
@@ -283,7 +156,7 @@ installieren unter Mac</a></h3>
 
 <p class=MsoNormal style='text-indent:0cm'><img width=37 height=37
 src="anleitung-Dateien/image012.gif" align=left hspace=12
-alt="Mac os-logo - Kostenlose computer-Icons">Beim Mac ist die Sache so ähnlich
+alt="Mac os-logo - Kostenlose computer-Icons">Beim Mac ist die Sache so Ã¤hnlich
 wie bei Windows. Du kannst ein Installationsprogramm herunterladen und dieses
 starten. Das installiert Dir Thonny auf Deinem Mac.</p>
 
@@ -303,13 +176,13 @@ text-indent:0cm'><span style='font-family:"Times New Roman",serif'>&nbsp;</span>
 
 <p class=MsoListParagraphCxSpLast style='margin-left:32.2pt;text-indent:-18.0pt'>2.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Fahre
-mit der Maus auf den Schriftzug „Mac“ und klicke auf den Link wie in dem
+mit der Maus auf den Schriftzug â€žMacâ€œ und klicke auf den Link wie in dem
 folgenden Bild.</p>
 
 <p class=MsoNormal align=left style='margin-left:36.0pt;text-align:left;
 text-indent:0cm'><img border=0 width=333 height=141
 src="anleitung-Dateien/image013.jpg"
-alt="Ein Bild, das Text, Screenshot, Schrift, Webseite enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Text, Screenshot, Schrift, Webseite enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoListParagraphCxSpFirst style='margin-left:32.2pt;text-indent:-18.0pt'>3.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Nun
@@ -318,16 +191,16 @@ wird die Datei heruntergeladen.</p>
 <p class=MsoListParagraphCxSpMiddle align=left style='text-align:left;
 text-indent:0cm'><img border=0 width=295 height=112
 src="anleitung-Dateien/image014.jpg"
-alt="Ein Bild, das Text, Screenshot, Schrift, Reihe enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Text, Screenshot, Schrift, Reihe enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoListParagraphCxSpMiddle align=left style='text-align:left;
 text-indent:0cm'><span style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoListParagraphCxSpMiddle align=left style='text-align:left;
-text-indent:0cm'><span style='font-family:"Times New Roman",serif'> </span></p>
+text-indent:0cm'><span style='font-family:"Times New Roman",serif'>Â </span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-left:32.2pt;text-indent:-18.0pt'>4.<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Öffne
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Ã–ffne
 die heruntergeladene Datei und folge den Anweisungen auf dem Bildschirm. Die
 Installation erfolgt genau gleich wie bei Windows.</p>
 
@@ -340,20 +213,20 @@ installieren unter Linux</a></h3>
 src="anleitung-Dateien/image015.gif" align=left hspace=12
 alt="Download Tux, Linux, Vector. Royalty-Free Vector Graphic - Pixabay">Bei
 Linux ist das etwas anders als bei Mac und Windows. In Linux musst Du zuerst
-ein Computerprogramm öffnen: das <b>Terminal</b>. Ein Terminal ist ein Programm
+ein Computerprogramm Ã¶ffnen: das <b>Terminal</b>. Ein Terminal ist ein Programm
 mit dem man dem Computer Textbefehle geben kann. Unter Linux sieht es in etwa
 so aus:</p>
 
 <p class=MsoNormal><img border=0 width=383 height=172 id="Grafik 8"
 src="anleitung-Dateien/image016.jpg"
-alt="Ein Bild, das Screenshot, Text, Software, Multimedia-Software enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Screenshot, Text, Software, Multimedia-Software enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoListParagraphCxSpFirst style='margin-left:32.2pt;text-indent:-18.0pt'>1.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Hast
-Du das Terminal geöffnet, gibst Du folgende Befehl ein:</p>
+Du das Terminal geÃ¶ffnet, gibst Du folgende Befehl ein:</p>
 
 <p class=MsoListParagraphCxSpLast style='margin-left:32.2pt;text-indent:0cm'>(<b>ACHTUNG:</b>
-Das $-Zeichen und den Leerschlag vor „bash“ kannst Du ignorieren)</p>
+Das $-Zeichen und den Leerschlag vor â€žbashâ€œ kannst Du ignorieren)</p>
 
 <div style='border:solid #5B9BD5 1.0pt;padding:10.0pt 10.0pt 10.0pt 10.0pt;
 margin-left:14.2pt;margin-right:14.2pt'>
@@ -367,22 +240,22 @@ lang=EN-US>)</span></p>
 
 <p class=MsoListParagraph style='margin-left:32.2pt;text-indent:-18.0pt'>2.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Danach
-wird das Installer-Programm für Thonny heruntergeladen und dann ausgeführt.</p>
+wird das Installer-Programm fÃ¼r Thonny heruntergeladen und dann ausgefÃ¼hrt.</p>
 
-<p class=MsoNormal>Glückwunsch! Thonny ist installiert. Du bist bereit, um mit
+<p class=MsoNormal>GlÃ¼ckwunsch! Thonny ist installiert. Du bist bereit, um mit
 dem Programmieren loszulegen. Naja, zumindest fast bereit. Um Deine Daten
-analysieren zu können und die Beispielprogramme aus diesem Buch zu nutzen,
-brauchst Du nämlich noch ein Computerprogramm, dass Dir die Daten und
-Beispielprogramme herunterlädt. Dieses Computerprogramm heisst „Git“. Mit „Git“
+analysieren zu kÃ¶nnen und die Beispielprogramme aus diesem Buch zu nutzen,
+brauchst Du nÃ¤mlich noch ein Computerprogramm, dass Dir die Daten und
+Beispielprogramme herunterlÃ¤dt. Dieses Computerprogramm heisst â€žGitâ€œ. Mit â€žGitâ€œ
 kann man Dateien, in denen Programmiercode gespeichert ist, von einer Website
 herunterladen (und auch auf Websites hochladen). Git wird von Software-Entwickler*innen
-genutzt, um Programmiercode miteinander auszutauschen. Sie können dann den
+genutzt, um Programmiercode miteinander auszutauschen. Sie kÃ¶nnen dann den
 Programmiercode gemeinsam anschauen, ihn verbessern und weiterentwickeln.</p>
 
-<p class=MsoNormal>Du benötigst <b>Git</b>, um die Codebeispiele aus diesem
-Buch runterladen zu können. Je nachdem, ob Du Windows, Mac oder Linux auf
+<p class=MsoNormal>Du benÃ¶tigst <b>Git</b>, um die Codebeispiele aus diesem
+Buch runterladen zu kÃ¶nnen. Je nachdem, ob Du Windows, Mac oder Linux auf
 Deinem Computer hast, ist das Vorgehen, um Git zu installieren, ein anderes.
-Keine Sorge: Ich erkläre Dir die Installation für alle Systeme.</p>
+Keine Sorge: Ich erklÃ¤re Dir die Installation fÃ¼r alle Systeme.</p>
 
 <h3><a name="_Toc192713851"></a><a name="_Toc195981142">Git installieren auf
 Windows</a></h3>
@@ -391,7 +264,7 @@ Windows</a></h3>
 
 <p class=MsoNormal style='text-indent:0cm'><img width=42 height=37
 src="anleitung-Dateien/image017.gif" align=left hspace=12
-alt="File:Unofficial Windows logo variant - 2002–2012 ...">Die Installation von
+alt="File:Unofficial Windows logo variant - 2002â€“2012 ...">Die Installation von
 Git auf Windows erfolgt bequem durch ein Installationsprogramm.</p>
 
 <p class=MsoNormal style='text-indent:0cm'>&nbsp;</p>
@@ -413,21 +286,21 @@ width=182 height=48 src="anleitung-Dateien/image018.jpg"></p>
 
 <p class=MsoNormal style='margin-left:18.0pt;text-indent:-18.0pt'>2.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Klicke
-dort zunächst auf „Downloads“.</p>
+dort zunÃ¤chst auf â€žDownloadsâ€œ.</p>
 
 <p class=MsoNormal style='margin-left:18.0pt;text-indent:0cm'><img border=0
 width=364 height=242 src="anleitung-Dateien/image019.jpg"
-alt="Ein Bild, das Text, Elektronik, Screenshot, Display enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Text, Elektronik, Screenshot, Display enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoNormal style='margin-left:18.0pt;text-indent:0cm'>&nbsp;</p>
 
 <p class=MsoNormal style='margin-left:18.0pt;text-indent:-18.0pt'>3.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Es
-öffnet sich die Download-Seite. Klicke dann auf „Windows“.</p>
+Ã¶ffnet sich die Download-Seite. Klicke dann auf â€žWindowsâ€œ.</p>
 
 <p class=MsoNormal style='margin-left:18.0pt;text-indent:0cm'><img border=0
 width=361 height=214 src="anleitung-Dateien/image020.jpg"
-alt="Ein Bild, das Text, Elektronik, Computer, Screenshot enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Text, Elektronik, Computer, Screenshot enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoNormal align=left style='margin-top:0cm;text-align:left;text-indent:
 0cm'>&nbsp;</p>
@@ -438,7 +311,7 @@ nun auf den obersten Link.</p>
 
 <p class=MsoNormal style='margin-left:18.0pt;text-indent:0cm'><img border=0
 width=368 height=228 src="anleitung-Dateien/image021.jpg"
-alt="Ein Bild, das Text, Screenshot, Webseite, Website enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Text, Screenshot, Webseite, Website enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoNormal style='margin-left:18.0pt;text-indent:0cm'>&nbsp;</p>
 
@@ -452,7 +325,7 @@ wird ein Installationsprogramm heruntergeladen.</p>
 
 <p class=MsoNormal style='margin-left:18.0pt;text-indent:0cm'><img border=0
 width=196 height=93 src="anleitung-Dateien/image022.jpg"
-alt="Ein Bild, das Text, Screenshot, Schrift, Zahl enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Text, Screenshot, Schrift, Zahl enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoNormal style='margin-left:18.0pt;text-indent:-18.0pt'>6.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Sobald
@@ -460,18 +333,18 @@ der Download fertig ist, klicke auf den Link.</p>
 
 <p class=MsoNormal style='margin-left:18.0pt;text-indent:0cm'><img border=0
 width=195 height=65 src="anleitung-Dateien/image023.jpg"
-alt="Ein Bild, das Text, Screenshot, Schrift, Reihe enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Text, Screenshot, Schrift, Reihe enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoNormal style='margin-left:18.0pt;text-indent:0cm'>&nbsp;</p>
 
 <p class=MsoNormal style='margin-left:18.0pt;text-indent:-18.0pt'>7.<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Anschließend
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>AnschlieÃŸend
 wird das Installationsprogramm gestartet. Auch hier kriegst Du als erstes mal
-die Lizenzvereinbarung zu sehen, d Klicke auf „Install“.</p>
+die Lizenzvereinbarung zu sehen, d Klicke auf â€žInstallâ€œ.</p>
 
 <p class=MsoNormal style='margin-left:18.0pt;text-indent:0cm'><img border=0
 width=291 height=230 src="anleitung-Dateien/image024.jpg"
-alt="Ein Bild, das Text, Elektronik, Screenshot, Software enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Text, Elektronik, Screenshot, Software enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoNormal align=left style='margin-top:0cm;text-align:left;text-indent:
 0cm'>&nbsp;</p>
@@ -482,7 +355,7 @@ werden die Daten installiert.</p>
 
 <p class=MsoNormal><img border=0 width=293 height=230
 src="anleitung-Dateien/image025.jpg"
-alt="Ein Bild, das Text, Screenshot, Display, Software enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Text, Screenshot, Display, Software enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoNormal align=left style='margin-top:0cm;text-align:left;text-indent:
 0cm'>&nbsp;</p>
@@ -501,11 +374,11 @@ alt="Ein Bild, das Text, Screenshot, Display, Software enthält.&#10;&#10;KI-gene
 
 <p class=MsoListParagraphCxSpFirst style='margin-left:18.0pt;text-indent:-18.0pt'>9.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Warte,
-bis alles installiert ist und klicke auf „Finish“. </p>
+bis alles installiert ist und klicke auf â€žFinishâ€œ. </p>
 
 <p class=MsoListParagraphCxSpLast style='margin-left:18.0pt;text-indent:0cm'><img
 border=0 width=291 height=230 src="anleitung-Dateien/image026.jpg"
-alt="Ein Bild, das Text, Screenshot, Betriebssystem, Display enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Text, Screenshot, Betriebssystem, Display enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoNormal>&nbsp;</p>
 
@@ -517,25 +390,25 @@ Mac</a></h3>
 <p class=MsoNormal style='text-indent:0cm'><img width=37 height=37
 src="anleitung-Dateien/image012.gif" align=left hspace=12
 alt="Mac os-logo - Kostenlose computer-Icons">Beim Mac ist die Sache anders als
-bei Windows. Hier musst Du ebenfalls ein sog. „Terminal” öffnen und ein
-Programm namens „brew” installieren. Dabei handelt es sich um einen
-„Paket-Manager”. Das ist eine Software, mit der man andere Software
+bei Windows. Hier musst Du ebenfalls ein sog. â€žTerminalâ€ Ã¶ffnen und ein
+Programm namens â€žbrewâ€ installieren. Dabei handelt es sich um einen
+â€žPaket-Managerâ€. Das ist eine Software, mit der man andere Software
 installieren kann.</p>
 
 <p class=MsoNormal>Manchmal ist brew bereits auf Deinen Mac installiert. Um das
-zu testen, öffne ein Terminal.</p>
+zu testen, Ã¶ffne ein Terminal.</p>
 
 <p class=MsoListParagraphCxSpFirst style='margin-left:18.0pt;text-indent:-18.0pt'><span
 style='font-size:10.0pt'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>Um das Terminal zu öffnen, musst Du auf Deinem Mac die
-„Cmd“-Taste drücken und gedrückt halten und dann auf die Leertaste drücken (Cmd
+</span></span>Um das Terminal zu Ã¶ffnen, musst Du auf Deinem Mac die
+â€žCmdâ€œ-Taste drÃ¼cken und gedrÃ¼ckt halten und dann auf die Leertaste drÃ¼cken (Cmd
 + Leertaste). </p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:18.0pt;text-indent:-18.0pt'><span
 style='font-size:10.0pt'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>Es öffnet sich ein Suchfenster. Du wirst nun vom Computer
-aufgefordert, zu sagen, welches Programm Du gerne öffnen würdest. Gib
-„Terminal“ ein und drücke dann die Taste „Enter“.</p>
+</span></span>Es Ã¶ffnet sich ein Suchfenster. Du wirst nun vom Computer
+aufgefordert, zu sagen, welches Programm Du gerne Ã¶ffnen wÃ¼rdest. Gib
+â€žTerminalâ€œ ein und drÃ¼cke dann die Taste â€žEnterâ€œ.</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:18.0pt;text-indent:-18.0pt'><span
 style='font-size:10.0pt'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -543,14 +416,14 @@ style='font-size:10.0pt'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbs
 
 <p class=MsoListParagraphCxSpLast style='margin-left:18.0pt;text-indent:0cm'><img
 border=0 width=216 height=118 src="anleitung-Dateien/image027.jpg"
-alt="Ein Bild, das Text, Screenshot, Schrift enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Text, Screenshot, Schrift enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoNormal>Teste nun, ob brew bereits installiert ist. Gib folgendes
 ins Terminal ein:</p>
 
-<p class=MsoNormal>(<b>ACHTUNG:</b> Das führende ‘$’-Zeichen und den Leerschlag
-vor ‘/bin…’ musst Du weglassen. Das ‘$’-Zeichen habe ich nur in den Text
-eingefügt, damit man sieht, dass eine neue Zeile im Terminal beginnt.)</p>
+<p class=MsoNormal>(<b>ACHTUNG:</b> Das fÃ¼hrende â€˜$â€™-Zeichen und den Leerschlag
+vor â€˜/binâ€¦â€™ musst Du weglassen. Das â€˜$â€™-Zeichen habe ich nur in den Text
+eingefÃ¼gt, damit man sieht, dass eine neue Zeile im Terminal beginnt.)</p>
 
 <div style='border:solid #5B9BD5 1.0pt;padding:10.0pt 10.0pt 10.0pt 10.0pt;
 margin-left:14.2pt;margin-right:14.2pt'>
@@ -562,42 +435,42 @@ margin-left:0cm;margin-bottom:.0001pt'>$ brew --version</p>
 
 <p class=MsoNormal>Wenn nun eine Version von Homebrew angezeigt wird, wie in
 untenstehendem Bild, hast Du brew bereits installiert. Du kannst dann zum
-Abschnitt „git mit brew installieren“ vorspringen.</p>
+Abschnitt â€žgit mit brew installierenâ€œ vorspringen.</p>
 
 <p class=MsoNormal><img border=0 width=316 height=92
 src="anleitung-Dateien/image028.jpg"
-alt="Ein Bild, das Text, Screenshot, Schrift enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Text, Screenshot, Schrift enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoNormal style='text-indent:0cm'><b>brew installieren</b></p>
 
-<p class=MsoNormal>Das Computerprogramm brew wird über das Terminal
+<p class=MsoNormal>Das Computerprogramm brew wird Ã¼ber das Terminal
 installiert.</p>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
 style='font-size:10.0pt'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>Öffne ein Terminal, falls Du es nicht bereits geöffnet hast. Gib
-im Terminal folgenden Befehl ein und drücke Enter:</p>
+</span></span>Ã–ffne ein Terminal, falls Du es nicht bereits geÃ¶ffnet hast. Gib
+im Terminal folgenden Befehl ein und drÃ¼cke Enter:</p>
 
 <div style='border:solid #5B9BD5 1.0pt;padding:10.0pt 10.0pt 10.0pt 10.0pt;
 margin-left:14.2pt;margin-right:14.2pt'>
 
 <p class=Code style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;
-margin-left:0cm;margin-bottom:.0001pt'>$ /bin/bash -c „$(curl -fsSL <a
+margin-left:0cm;margin-bottom:.0001pt'>$ /bin/bash -c â€ž$(curl -fsSL <a
 href="https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh"><span
-style='color:#7F7F7F'>https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh</span></a>)“</p>
+style='color:#7F7F7F'>https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh</span></a>)â€œ</p>
 
 </div>
 
 <p class=MsoListParagraphCxSpFirst style='margin-left:18.0pt;text-indent:-18.0pt'><span
 style='font-size:10.0pt'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>Dieser Befehl lädt das Installationsprogramm für Homebrew
-herunter und führt es aus.</p>
+</span></span>Dieser Befehl lÃ¤dt das Installationsprogramm fÃ¼r Homebrew
+herunter und fÃ¼hrt es aus.</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:18.0pt;text-indent:-18.0pt'><span
 style='font-size:10.0pt'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span>Es kann sein, dass Du von Deinem Mac aufgefordert wirst, Dein
 Passwort einzugeben. Dann gibst Du einfach Dein Passwort ein (Du siehst keine
-Zeichen beim Tippen, das ist normal). Schliesslich drückst Du Enter.</p>
+Zeichen beim Tippen, das ist normal). Schliesslich drÃ¼ckst Du Enter.</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:18.0pt;text-indent:-18.0pt'><span
 style='font-size:10.0pt'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -608,23 +481,23 @@ setzen musst.</p>
 <p class=MsoListParagraphCxSpLast style='margin-left:18.0pt;text-indent:-18.0pt'><span
 style='font-size:10.0pt'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span>Falls brew nicht automatisch in den PATH aufgenommen wurde,
-kannst Du es manuell hinzufügen. Tippe dazu folgendes ins Terminal:</p>
+kannst Du es manuell hinzufÃ¼gen. Tippe dazu folgendes ins Terminal:</p>
 
 <div style='border:solid #5B9BD5 1.0pt;padding:10.0pt 10.0pt 10.0pt 10.0pt;
 margin-left:14.2pt;margin-right:14.2pt'>
 
 <p class=Code style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;
-margin-left:0cm;margin-bottom:.0001pt'><span lang=EN-US>$ echo 'eval „$(/opt/homebrew/bin/brew
-shellenv)“' &gt;&gt; ~/.zprofile</span></p>
+margin-left:0cm;margin-bottom:.0001pt'><span lang=EN-US>$ echo 'eval â€ž$(/opt/homebrew/bin/brew
+shellenv)â€œ' &gt;&gt; ~/.zprofile</span></p>
 
 <p class=Code style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;
 margin-left:0cm;margin-bottom:.0001pt'><span lang=EN-US>$</span><span
-lang=EN-US> eval „$(/opt/homebrew/bin/brew shellenv)“</span></p>
+lang=EN-US> eval â€ž$(/opt/homebrew/bin/brew shellenv)â€œ</span></p>
 
 </div>
 
 <p class=MsoNormal>Nun sollte brew installiert sein. Gib folgenden Befehl in
-das Terminal ein, um zu prüfen, ob Homebrew erfolgreich installiert wurde:</p>
+das Terminal ein, um zu prÃ¼fen, ob Homebrew erfolgreich installiert wurde:</p>
 
 <div style='border:solid #5B9BD5 1.0pt;padding:10.0pt 10.0pt 10.0pt 10.0pt;
 margin-left:14.2pt;margin-right:14.2pt'>
@@ -643,8 +516,8 @@ Installation erfolgreich abgeschlossen. <span style='font-family:"Segoe UI Emoji
 ganz einfach.</p>
 
 <p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'>1.<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Öffne
-das Terminal, wenn Du es noch nicht geöffnet hast. Tippe folgendes ins Terminal
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Ã–ffne
+das Terminal, wenn Du es noch nicht geÃ¶ffnet hast. Tippe folgendes ins Terminal
 ein:</p>
 
 <div style='border:solid #5B9BD5 1.0pt;padding:10.0pt 10.0pt 10.0pt 10.0pt;
@@ -668,12 +541,12 @@ Linux</a></h3>
 <p class=MsoNormal style='text-indent:0cm'><img width=37 height=38
 src="anleitung-Dateien/image029.gif" align=left hspace=12
 alt="Download Tux, Linux, Vector. Royalty-Free Vector Graphic - Pixabay">Bei
-Linux ist es so ähnlich wie beim Mac. Allerdings brauchst Du kein brew für die
-Installation. Der Paket-Manager heißt dort je nach Linux-Distribution (Ubuntu,
-Debian, Fedora etc.) einfach etwas anders. Der Vorteil gegenüber Mac: der
+Linux ist es so Ã¤hnlich wie beim Mac. Allerdings brauchst Du kein brew fÃ¼r die
+Installation. Der Paket-Manager heiÃŸt dort je nach Linux-Distribution (Ubuntu,
+Debian, Fedora etc.) einfach etwas anders. Der Vorteil gegenÃ¼ber Mac: der
 Paket-Manager ist auf Linux in der Regel schon installiert.</p>
 
-<p class=MsoNormal style='text-indent:0cm'><span style='font-family:"Times New Roman",serif'>Öffne
+<p class=MsoNormal style='text-indent:0cm'><span style='font-family:"Times New Roman",serif'>Ã–ffne
 ein Terminal und gib folgenden Befehl ein:</span></p>
 
 <div style='border:solid #5B9BD5 1.0pt;padding:10.0pt 10.0pt 10.0pt 10.0pt;
@@ -684,30 +557,30 @@ margin-left:0cm;margin-bottom:.0001pt'>sudo apt-get install git</p>
 
 </div>
 
-<h3><a name="_Toc195981145"></a><a name="_Toc192713854">Übungen mit Git und
+<h3><a name="_Toc195981145"></a><a name="_Toc192713854">Ãœbungen mit Git und
 GitHu</a>b</h3>
 
 <p class=MsoNormal><b>Github</b> ist eine Website, auf der Programmierer ihren
-Code speichern und veröffentlichen können. Alle Übungen und Daten zu diesem
+Code speichern und verÃ¶ffentlichen kÃ¶nnen. Alle Ãœbungen und Daten zu diesem
 Buch findest Du auf:</p>
 
 <p class=MsoNormal><a href="https://github.com/kbenz1/juri-chicago.git">https://github.com/kbenz1/juri-chicago.git</a></p>
 
-<p class=MsoNormal>Um den Code für dieses Buch von Github herunterzuladen, musst
-Du folgende Schritte tätigen.</p>
+<p class=MsoNormal>Um den Code fÃ¼r dieses Buch von Github herunterzuladen, musst
+Du folgende Schritte tÃ¤tigen.</p>
 
 <p class=MsoListParagraphCxSpFirst style='margin-left:14.2pt;text-indent:-14.2pt'>1.<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span>Öffne den „Explorer“,
-wenn Du auf Windows bist. Hast Du einen Mac, öffnest Du den „Finder“. In den
-meisten Linux Distributionen gibt es einen „File Explorer“.</p>
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span>Ã–ffne den â€žExplorerâ€œ,
+wenn Du auf Windows bist. Hast Du einen Mac, Ã¶ffnest Du den â€žFinderâ€œ. In den
+meisten Linux Distributionen gibt es einen â€žFile Explorerâ€œ.</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:14.2pt;text-indent:-14.2pt'>2.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span>Dann erstellst
 Du in einem Ordner Deiner Wahl ein Verzeichnis, wo Du den Github-Code
-hineinladen willst. In diesem Beispiel heisst das Verzeichnis  „Juri-Apps“ und
-es befindet sich im Ordner „Dokumente“. Navigiere dann in dieses Verzeichnis.</p>
+hineinladen willst. In diesem Beispiel heisst das Verzeichnis Â â€žJuri-Appsâ€œ und
+es befindet sich im Ordner â€žDokumenteâ€œ. Navigiere dann in dieses Verzeichnis.</p>
 
-<p class=MsoListParagraphCxSpLast style='margin-left:14.2pt;text-indent:0cm'> <br>
+<p class=MsoListParagraphCxSpLast style='margin-left:14.2pt;text-indent:0cm'>Â <br>
 <img border=0 width=295 height=31 src="anleitung-Dateien/image030.jpg"></p>
 
 <p class=MsoNormal align=left style='margin-top:0cm;text-align:left;text-indent:
@@ -715,20 +588,20 @@ es befindet sich im Ordner „Dokumente“. Navigiere dann in dieses Verzeichnis.</p
 
 <p class=MsoListParagraphCxSpFirst style='margin-left:18.0pt;text-indent:-18.0pt'>3.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Klicke
-mit der rechten Maustaste auf eine leere Fläche und wähle „Open Git Bash here“
-(Windows) oder öffne das Terminal direkt (Mac/Linux).</p>
+mit der rechten Maustaste auf eine leere FlÃ¤che und wÃ¤hle â€žOpen Git Bash hereâ€œ
+(Windows) oder Ã¶ffne das Terminal direkt (Mac/Linux).</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:18.0pt;text-indent:0cm'>&nbsp;</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:18.0pt;text-indent:0cm'><img
 border=0 width=308 height=357 id="Grafik 1" src="anleitung-Dateien/image031.jpg"
-alt="Ein Bild, das Text, Screenshot, Zahl, Schrift enthält.&#10;&#10;KI-generierte Inhalte können fehlerhaft sein."></p>
+alt="Ein Bild, das Text, Screenshot, Zahl, Schrift enthÃ¤lt.&#10;&#10;KI-generierte Inhalte kÃ¶nnen fehlerhaft sein."></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-left:18.0pt;text-indent:0cm'>&nbsp;</p>
 
 <p class=MsoListParagraphCxSpLast style='margin-left:18.0pt;text-indent:-18.0pt'>4.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Gib
-anschließend folgenden Befehl ein, um die Übungen dieses Buches
+anschlieÃŸend folgenden Befehl ein, um die Ãœbungen dieses Buches
 herunterzuladen:</p>
 
 <div style='border:solid #5B9BD5 1.0pt;padding:10.0pt 10.0pt 10.0pt 10.0pt;
