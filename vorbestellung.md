@@ -3,64 +3,7 @@
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
 <meta name=Generator content="Microsoft Word 15 (filtered)">
-<style>
-<!--
- /* Font Definitions */
- @font-face
-	{font-family:"Cambria Math";
-	panose-1:2 4 5 3 5 4 6 3 2 4;}
-@font-face
-	{font-family:Aptos;}
-@font-face
-	{font-family:"Aptos Display";}
-@font-face
-	{font-family:"Segoe UI Emoji";
-	panose-1:2 11 5 2 4 2 4 2 2 3;}
-@font-face
-	{font-family:"Segoe UI Symbol";
-	panose-1:2 11 5 2 4 2 4 2 2 3;}
- /* Style Definitions */
- p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:8.0pt;
-	margin-left:0cm;
-	line-height:115%;
-	font-size:12.0pt;
-	font-family:"Aptos",sans-serif;}
-h1
-	{mso-style-link:"Überschrift 1 Zchn";
-	margin-top:18.0pt;
-	margin-right:0cm;
-	margin-bottom:4.0pt;
-	margin-left:0cm;
-	line-height:115%;
-	page-break-after:avoid;
-	font-size:20.0pt;
-	font-family:"Aptos Display",sans-serif;
-	color:#0F4761;
-	font-weight:normal;}
-a:link, span.MsoHyperlink
-	{color:#467886;
-	text-decoration:underline;}
-span.berschrift1Zchn
-	{mso-style-name:"Überschrift 1 Zchn";
-	mso-style-link:"Überschrift 1";
-	font-family:"Aptos Display",sans-serif;
-	color:#0F4761;}
-.MsoChpDefault
-	{font-size:12.0pt;
-	font-family:"Aptos",sans-serif;}
-.MsoPapDefault
-	{margin-bottom:8.0pt;
-	line-height:115%;}
-@page WordSection1
-	{size:595.3pt 841.9pt;
-	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
-div.WordSection1
-	{page:WordSection1;}
--->
-</style>
+
 
 </head>
 
@@ -109,6 +52,8 @@ Jetzt auf der Leipziger Buchmesse erhältlich</b></p>
 style='font-family:"Segoe UI Symbol",sans-serif'>&#8288;</span></a></p>
 
 <p class=MsoNormal><b>Kannst du den Code knacken, bevor Juri es tut?</b></p>
+
+<h1><span style='font-family:"Segoe UI Emoji",sans-serif'>&#128269;</span> Juri Chicago - Band 1: Big Katzis letzte Rechnung</h1>
 
 <p class=MsoNormal><b><img border=0 width=149 height=225 id="Grafik 1"
 src="vorbestellung-Dateien/image002.jpg"></b></p>
