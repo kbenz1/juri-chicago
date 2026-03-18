@@ -48,8 +48,7 @@ Jetzt auf der Leipziger Buchmesse erhältlich</b></p>
 <p class=MsoNormal>oder direkt online bestellen:</p>
 
 <p class=MsoNormal><span style='font-family:"Segoe UI Emoji",sans-serif'>&#128073;</span>
-<a href="https://www.work-flow.consulting/daten-detektiv-juri-chicago/&#8288;">https://www.work-flow.consulting/daten-detektiv-juri-chicago/<span
-style='font-family:"Segoe UI Symbol",sans-serif'>&#8288;</span></a></p>
+<a href="https://www.work-flow.consulting/daten-detektiv-juri-chicago">https://www.work-flow.consulting/daten-detektiv-juri-chicago</a></p>
 
 <p class=MsoNormal><b>Kannst du den Code knacken, bevor Juri es tut?</b></p>
 
