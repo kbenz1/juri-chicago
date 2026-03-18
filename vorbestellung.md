@@ -11,4 +11,5 @@ Der große Erfolg des Buchs hat uns dazu veranlasst, "Juri Chicago" als Graphic 
 Exklusiv für die Buchmesse in Leipzig haben wir einen Sonderdruck vom Juri Chicago-Comic angefertigt.
 
 Das Buch kann unter folgender URL vorbestellt werden.
+https://progenia.ch/juri
 
